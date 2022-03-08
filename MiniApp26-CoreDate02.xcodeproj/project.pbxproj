@@ -62,10 +62,10 @@
 				B9894A1A27D71EBD00A66B81 /* SceneDelegate.swift */,
 				B9894A1C27D71EBD00A66B81 /* ViewController.swift */,
 				B9894A1E27D71EBD00A66B81 /* Main.storyboard */,
+				B9894A2127D71EBD00A66B81 /* MiniApp26_CoreDate02.xcdatamodeld */,
 				B9894A2427D71EBF00A66B81 /* Assets.xcassets */,
 				B9894A2627D71EBF00A66B81 /* LaunchScreen.storyboard */,
 				B9894A2927D71EBF00A66B81 /* Info.plist */,
-				B9894A2127D71EBD00A66B81 /* MiniApp26_CoreDate02.xcdatamodeld */,
 			);
 			path = "MiniApp26-CoreDate02";
 			sourceTree = "<group>";
